@@ -1,3 +1,5 @@
 .gradle
 .sdkmanrc
 build
+bin
+.vscode
